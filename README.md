@@ -15,6 +15,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Plataformas](https://img.shields.io/badge/Web%20%7C%20Android-jogável-22c766?style=for-the-badge)
 
+<br />
+
+<a href="https://auraclicker.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20JOGAR%20AGORA-auraclicker.vercel.app-FFCF3A?style=for-the-badge&labelColor=FF5A8A" alt="Jogar agora em auraclicker.vercel.app" height="40" /></a>
+
+<sub>🌐 <a href="https://auraclicker.vercel.app/">auraclicker.vercel.app</a> · roda no navegador do celular e do computador · <a href="https://auraclicker.vercel.app/?autoplay">ver o jogo se jogando sozinho</a></sub>
+
 🏫 Feito na aula de **23/11/2026** da **EEEP de Quixadá** (CE),
 curso de **ADS: Análise e Desenvolvimento de Sistemas**.
 
@@ -135,7 +141,7 @@ No celular é só tocar nas pistas. Cada dedo é lido separadamente, então dá 
 
 A barra de **energia da aura** enche a cada acerto. Quando chega em 100%, o personagem alcança a **Aura Máxima**: ele levita e os colegas comemoram.
 
-> 💡 **Dica para apresentar:** abra o jogo na web com `?autoplay` no fim do endereço e ele se joga sozinho, ótimo para mostrar na aula.
+> 💡 **Dica para apresentar:** abra **[auraclicker.vercel.app/?autoplay](https://auraclicker.vercel.app/?autoplay)** e o jogo se joga sozinho, ótimo para mostrar na aula.
 
 ---
 
@@ -175,6 +181,8 @@ O visual fica salvo junto com o progresso.
 ---
 
 ## 🚀 Rodando o projeto
+
+> 🌐 Só quer jogar? Abra **[auraclicker.vercel.app](https://auraclicker.vercel.app/)**. O site é publicado na Vercel a cada push no `master`, usando a configuração do [vercel.json](vercel.json).
 
 **Pré-requisitos:** [Node.js](https://nodejs.org/) em uma versão LTS recente.
 
