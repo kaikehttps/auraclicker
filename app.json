@@ -13,17 +13,16 @@
       "package": "com.kaike207.auraclicker",
       "versionCode": 1,
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#010C35",
         "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
+        "backgroundImage": "./assets/android-icon-background.png"
       },
       "predictiveBackGestureEnabled": false
     },
     "web": {
       "favicon": "./assets/favicon.png",
       "name": "Aura Clicker",
-      "backgroundColor": "#140c24"
+      "backgroundColor": "#010C35"
     },
     "plugins": [
       "expo-font"
